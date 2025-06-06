@@ -36,3 +36,18 @@ Ingrese una ecuación aritmética con datos de 16 bits con signo (máximo 60 car
 5+3*2-8/4
 
 El resultado es: 9
+
+## 🖼️ Capturas de pantalla del programa
+
+### 🔹 Evaluación de operaciones aritméticas
+![Operaciones](IMG/IMAGE1.png)
+
+---
+
+### 🔹 Manejo de división entre cero
+![División entre cero](IMG/IMAGE2.png)
+
+---
+
+### 🔹 Finalización correcta del programa
+![Fin del programa](IMG/IMAGE3.png)
