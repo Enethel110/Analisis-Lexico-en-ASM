@@ -35,6 +35,7 @@ Este proyecto implementa un programa en lenguaje ensamblador que permite al usua
 Ingrese una ecuación aritmética con datos de 16 bits con signo (máximo 60 caracteres):
 5+3*2-8/4
 
+```
 El resultado es: 9
 
 ## 🖼️ Capturas de pantalla del programa
